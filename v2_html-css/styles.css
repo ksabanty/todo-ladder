@@ -1,0 +1,17 @@
+* {
+    background-color: #EEEDEB;
+}
+
+.heading {
+    font-family: "Lucida Handwriting", cursive;
+    color: #747264;
+}
+
+.list {
+    font-family: "Lucida Sans", sans-serif;
+    color: #3C3633;
+}
+
+li {
+    padding: 5px;
+}
